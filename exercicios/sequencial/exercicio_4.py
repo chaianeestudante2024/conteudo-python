@@ -1,3 +1,6 @@
+# Cálculo de média:
+
+
 nota_1 = float(input("Digite a primeira nota: "))
 nota_2 = float(input("Digite a segunda nota: "))
 nota_3 = float(input("Digite a terceira nota: "))
