@@ -1,6 +1,5 @@
-# Programa de tempo de download:
+# Programa de tempo de download e:
 
 tamanho_arquivo = float(input("Qual é o tamanho de seu arquivo?"))
-velocidade_internet = float(input("Qual é a velocidade do link da internet?"))
-
+velocidade_Internet =float(input("Qual é a velocidade?"))
 
