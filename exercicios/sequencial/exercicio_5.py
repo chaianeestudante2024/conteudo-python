@@ -1,8 +1,9 @@
 # Conversão de metro para centimetro:
 
-metro = int(input("Quantos metros deseja converter? "))
+metro = float(input("Quantos metros deseja converter? "))
 
 centimetro = metro * 100
 
-print("O resultado dessa conversão é",centimetro,"cm")
+# Aqui mostra o resultado para o usuário:
+print("O resultado dessa conversão de metros em centimetros é",centimetro,"cm")
 
